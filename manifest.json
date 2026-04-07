@@ -1,7 +1,7 @@
 {
   "name": "Hisaab - Trade Ledger & Trust",
   "short_name": "Hisaab",
-  "description": "Dhande ka smart hisaab",
+  "description": "Mobile parts ka smart hisaab",
   "start_url": "/",
   "display": "standalone",
   "background_color": "#1B2A4A",
